@@ -9,6 +9,12 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "nodemon": "^2.0.7"
+    "chalk": "^4.1.0",
+    "colors": "^1.4.0",
+    "lodash": "^4.17.21",
+    "moment": "^2.29.1",
+    "nodemon": "^2.0.7",
+    "slug": "^4.0.3",
+    "underscore": "^1.12.0"
   }
 }
